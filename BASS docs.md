@@ -1,2 +1,3 @@
 - [BASS](http://www.un4seen.com/doc/#bass/bass.html)
 - [BASS NET](http://bass.radio42.com/help/#)
+- [ManagedBASS](https://github.com/ManagedBass/ManagedBass)
