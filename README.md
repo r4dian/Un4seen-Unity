@@ -1,6 +1,6 @@
 # Un4seen Unity
 
-Expoloring using un4seen [BASS](http://www.un4seen.com/doc/#bass/bass.html) to play audio in Unity3D.
+Exploring using un4seen [BASS](http://www.un4seen.com/doc/#bass/bass.html) to play audio in Unity3D.
 
 Unity's own audio system treats tracker modules as any streaming audio asset. 
 This is a complete waste as it throws out all the good data about what instruments and notes are playing, or any possiblity to modify patterns, rearrange the order or mute certain instruments etc. interactively.
