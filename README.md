@@ -1,8 +1,8 @@
 # Un4seen Unity
 
-Expoloring using [BASS](http://www.un4seen.com/doc/#bass/bass.html) to play audio in Unity3D.
+Expoloring using un4seen [BASS](http://www.un4seen.com/doc/#bass/bass.html) to play audio in Unity3D.
 
-Unity's own audio system treats Tracker modules as any streaming audio asset. 
+Unity's own audio system treats tracker modules as any streaming audio asset. 
 This is a complete waste as it throws out all the good data about what instruments and notes are playing, or any possiblity to modify patterns, rearrange the order or mute certain instruments etc. interactively.
 
 This Repo contains a branch for each of the 3 wrappers for BASS in .NET that I'm aware of:
