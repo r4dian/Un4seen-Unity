@@ -17,6 +17,6 @@ The included Unity Project should load a quick .it module I knocked out for test
 The position tracking only seems to work properly in BASS.NET wrapper though, which is why I've defaulted to using this one.
 In the other two both trigger all the position synced events at the begining of the song instead, though the end synced event works normally.
 
-BASS.NET has additional [licence costs](http://bass.radio42.com/help/html/b8b8a713-7af4-465e-a612-1acd769d4639.htm#LicenseCost) over the otherswhich are free (after the cost of BASS itself), but I guess that's the cost of getting more feature complete wrapper.
+BASS.NET has additional [licence costs](http://bass.radio42.com/help/html/b8b8a713-7af4-465e-a612-1acd769d4639.htm#LicenseCost) over the others, which are free (after the cost of BASS itself) but I guess that's the cost of getting more feature complete wrapper.
 
 Last Tried in Unity 2020.3.14f1 (d0d1bb862f9d) @ 2021-07-22.
